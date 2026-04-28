@@ -98,6 +98,6 @@ This lab simulates a real enterprise network with multi-VLAN architecture, inter
 
 ## 👤 Author
 
-**Charold** | Network & Systems Administrator  
+Roland Charbel LANTEFO | Network & Systems Administrator  
 🔗 SysWarden — IT & Cybersecurity Services  
 📧 Available on Fiverr | Upwork | Comeup
